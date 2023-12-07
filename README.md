@@ -13,7 +13,7 @@ pursuit of a BS in Information Technology.
    
  - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB46FE04BCF8331C17EE57245A156AFB1285D89007B4C3900CB9BB80E8BD9B61)   
 
- -[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/022ae2c0bb53460080d2cac02e180fa1)
+ - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/022ae2c0bb53460080d2cac02e180fa1)
 
 ★ Skill Sets:
 
